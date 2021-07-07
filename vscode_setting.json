@@ -1,0 +1,26 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "editor.fontSize": 16
+    "editor.fontFamily": "'Segoe Print', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": null,
+    "files.exclude": {
+        "**/.idea": true,
+        "**/.ssh": true,
+        "**/node_modules": true
+    },
+    "editor.letterSpacing": 0.8,
+    "terminal.integrated.letterSpacing": 0.8,
+    "workbench.colorTheme": "Solarized Dark",
+    "[jsonc]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "workbench.productIconTheme": "fluent-icons",
+    "atomKeymap.promptV3Features": true,
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false
+}
